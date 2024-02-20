@@ -4,7 +4,7 @@ import java.net.SocketOption;
 
 public class Main {
 
-    public static void main(String [] args){
+    public static void main(String[] args){
         Product p=new Product();
 
         int ans=product(10,20);
